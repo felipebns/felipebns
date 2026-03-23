@@ -14,7 +14,7 @@ I'm Felipe — Computer Engineering student at Insper.
 ## 📌 Currently
 
 ✅ Studying AI, Data Science, and business applications
-✅ Looking for opportunities in tech / quant / data
+✅ Looking for opportunities in tech / data
 ✅ Building practical projects
 
 ## 🧠 Tech Stack
