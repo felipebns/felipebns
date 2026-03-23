@@ -49,10 +49,3 @@ I'm Felipe — a Computer Engineering student at Insper, passionate about **AI, 
 </p>
 
 ---
-
-## 🎯 Interests
-
-* Artificial Intelligence
-* Data Science
-* Quant / Finance Tech
-* Cybersecurity
