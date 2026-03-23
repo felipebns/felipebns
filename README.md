@@ -6,23 +6,17 @@ I'm Felipe — Computer Engineering student at Insper.
 * 🧠 Experience with Machine Learning & Data Science
 * 🌎 Open to opportunities in Brazil 🇧🇷 and the U.S. 🇺🇸
 
---
-
 ## 🚀 About Me
 
 💡 I enjoy solving real-world problems with technology
 🧠 Experience with **Machine Learning, Data Science, and intelligent systems**
 🌎 Open to opportunities in Brazil 🇧🇷 and the U.S. 🇺🇸
 
---
-
 ## 📌 Currently
 
 ✅ Studying AI, Data Science, and business applications
 ✅ Looking for opportunities in tech / quant / data
 ✅ Building practical projects
-
---
 
 ## 🧠 Tech Stack
 
@@ -62,8 +56,6 @@ I'm Felipe — Computer Engineering student at Insper.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 
---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,6 +66,3 @@ I'm Felipe — Computer Engineering student at Insper.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
-
-
-⭐ *If you like any project, feel free to star it!*
