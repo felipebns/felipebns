@@ -10,7 +10,6 @@ I'm Felipe — Computer Engineering student at Insper.
 
 💡 I enjoy solving real-world problems with technology
 🧠 Experience with **Machine Learning, Data Science, and intelligent systems**
-🌎 Open to opportunities in Brazil 🇧🇷 and the U.S. 🇺🇸
 
 ## 📌 Currently
 
