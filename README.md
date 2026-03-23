@@ -1,8 +1,12 @@
-# Hey 👋 What's up?
+# Hey 👋
 
-I'm Felipe — a Computer Engineering student at Insper, passionate about **AI, data, and building impactful technology**.
+I'm Felipe — Computer Engineering student at Insper.
 
----
+* 🤖 Focused on AI, Data & intelligent systems
+* 🧠 Experience with Machine Learning & Data Science
+* 🌎 Open to opportunities in Brazil 🇧🇷 and the U.S. 🇺🇸
+
+--
 
 ## 🚀 About Me
 
@@ -10,7 +14,7 @@ I'm Felipe — a Computer Engineering student at Insper, passionate about **AI, 
 🧠 Experience with **Machine Learning, Data Science, and intelligent systems**
 🌎 Open to opportunities in Brazil 🇧🇷 and the U.S. 🇺🇸
 
----
+--
 
 ## 📌 Currently
 
@@ -18,7 +22,7 @@ I'm Felipe — a Computer Engineering student at Insper, passionate about **AI, 
 ✅ Looking for opportunities in tech / quant / data
 ✅ Building practical projects
 
----
+--
 
 ## 🧠 Tech Stack
 
@@ -55,17 +59,21 @@ I'm Felipe — a Computer Engineering student at Insper, passionate about **AI, 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
 
----
+--
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipebns&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebns&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=felipebns&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
+
+
+⭐ *If you like any project, feel free to star it!*
