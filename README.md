@@ -1,5 +1,5 @@
 # Hey 👋
-I'm Felipe — Computer Engineering student at Insper, focused on **quantitative finance, machine learning and intelligent systems**.
+I'm Felipe, Computer Engineering student at Insper, focused on **quantitative finance, machine learning and intelligent systems**.
 
 * 📈 Interested in quantitative markets, systematic trading and financial engineering
 * 🤖 Building ML/LLM-driven tools for macro analysis, backtesting and equity research
